@@ -10,6 +10,5 @@ Includes a working benchmark test (`StartupBenchmark.kt`) that measures **cold s
 - Automating benchmarks in CI/CD
 
 his project accompanies the Medium article:  
-his project accompanies the Medium article:  
 👉 **[Android App Performance in 2025: Benchmarking with Macrobenchmark v3](https://medium.com/@gadagool.krishna/android-app-performance-benchmarking-with-macrobenchmark-v3-c07035d5f14e)**
 
